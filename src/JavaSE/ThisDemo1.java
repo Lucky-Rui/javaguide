@@ -1,3 +1,5 @@
+package JavaSE;
+
 import org.junit.Test;
 
 public class ThisDemo1 {
@@ -55,7 +57,7 @@ public class ThisDemo1 {
 
     @Override
     public String toString() {
-        return "ThisDemo1{" +
+        return "JavaSE.ThisDemo1{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';

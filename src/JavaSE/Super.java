@@ -1,3 +1,5 @@
+package JavaSE;
+
 public class Super {
     protected int number;
 

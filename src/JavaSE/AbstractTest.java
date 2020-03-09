@@ -1,3 +1,5 @@
+package JavaSE;
+
 public abstract class AbstractTest  {
 
 

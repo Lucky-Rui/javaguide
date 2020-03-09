@@ -1,3 +1,5 @@
+package JavaSE;
+
 import org.junit.Test;
 
 public class Main {
