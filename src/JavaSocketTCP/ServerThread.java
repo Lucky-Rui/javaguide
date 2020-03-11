@@ -1,4 +1,4 @@
-package JavaProgramming;
+package JavaSocketTCP;
 
 import java.io.*;
 import java.net.Socket;

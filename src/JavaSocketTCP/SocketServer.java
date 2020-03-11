@@ -1,4 +1,4 @@
-package JavaProgramming;
+package JavaSocketTCP;
 
 import java.net.InetAddress;
 import java.net.ServerSocket;
